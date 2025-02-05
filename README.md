@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlwlrmaaaaaaa" alt="dlwlrmaaaaaaa" /></a> </p>
 
-- 🔭 I’m currently working on [IFMS](https://github.com/danedwardm/ifms)
+- 🔭 I’m currently working on our Thesis
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m Grad "waiting"
 
 - 👨‍💻 All of my projects are available at [https://dlwlrmaaaaaaa.github.io/PortfolioResume/](https://dlwlrmaaaaaaa.github.io/PortfolioResume/)
 
